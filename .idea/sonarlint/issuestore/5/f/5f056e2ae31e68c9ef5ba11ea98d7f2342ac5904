@@ -1,0 +1,27 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ÎòÔë¨.
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.( ïßøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨±èª
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ı‚®şÿÿÿÿ
+Hsquid:S1481"'Remove this unused "s1" local variable.(ŠğŠœıÿÿÿÿ8„„ÿõ¨.
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûƒ€´
+Bsquid:S1604"(Make this anonymous inner class a lambda(Í‚ÅÌûÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(”ïÍû8Ï§Áê¨.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ™À8ı÷’ì¨.
+Msquid:S1612",Replace this lambda with a method reference.(™Ì™éÿÿÿÿÿ8…Âşõ¨.
+Bsquid:S1604"(Make this anonymous inner class a lambda(şòĞúıÿÿÿÿ
+Psquid:S1611"/Remove the parentheses around the "m" parameter(ŠğŠœıÿÿÿÿ8—­šì¨.
+Wsquid:S1854"6Remove this useless assignment to local variable "s1".(ŠğŠœıÿÿÿÿ8„„ÿõ¨.
+Psquid:S1611"/Remove the parentheses around the "m" parameter(™Ì™éÿÿÿÿÿ8Ÿìıõ¨.
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÈûô8¸û¢ö¨.

@@ -1,0 +1,100 @@
+
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(˜Å¸Ğ8”Æ½ª.
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(Çëâ¸ÿÿÿÿÿ8µ÷Í¾ª.
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(à©—­8®é“¾ª.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ©Â›8ÆµíÕ±.
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Ûûİüÿÿÿÿ8º€ù½ª.
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ÈÒ†ùıÿÿÿÿ8¯Á§¾ª.
+Ysquid:S1854R"6Remove this useless assignment to local variable "yy".(¾÷ğ©ıÿÿÿÿ8‡Ïğ¾ª.
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(’Ó¤¾8º€ù½ª.
+Osquid:S1905E",Remove this unnecessary cast to "LocalDate".(ßš¤“ıÿÿÿÿ8ìÏ½¾ª.
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(±Ò³Ü8Ğá’½ª.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(’›ôôÿÿÿÿÿ8íÌ½ª.
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(è„š8ÂØ»¾ª.
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ş’ÒŒ8¼ö—½ª.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ö…Ãşÿÿÿÿ8ÒÈı¼ª.
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Î†¾‘8ó–Ì½ª.
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(–Â“İ8…ŞŠ¾ª.
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(â‚”ÿÿÿÿÿ8£„â¾ª.
+Jsquid:S1481R"'Remove this unused "yy" local variable.(¾÷ğ©ıÿÿÿÿ8‡Ïğ¾ª.
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(ÎÄÏû8ŠÌ¾ª.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(»¹Ä¥8øŒ–½ª.
+Ssquid:S2209W"5Change this instance-reference to a static reference.(¯ŞËê8ßòê¾ª.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Óç¼ıÿÿÿÿ8ÉÆ¦Ø±.
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.( ú¬Âøÿÿÿÿ8Ê­¿½ª.
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(üÍü8—•Â½ª.
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ãıß¤8¡ü–½ª.
+ksquid:UselessImportCheck"@Remove this unused import 'java.time.temporal.TemporalAdjuster'.(ª†‚æ8®é“¾ª.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ëÃ§£8Æ’è½ª.
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(§˜Öñùÿÿÿÿ8¡ñ…¿ª.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÛêåúÿÿÿÿ8¿‰½ª.
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(‰şéşÿÿÿÿ8õ³ù½ª.
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÙŠ²üÿÿÿÿ8º­Š½ª.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¤ºÍüÿÿÿÿ8©’½ª.
+Osquid:S1905J",Remove this unnecessary cast to "LocalDate".(Ì¯¶Ôúÿÿÿÿ8ìÏ½¾ª.
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(‹‡º¬ÿÿÿÿÿ8²Ì¾ª.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(¨ë‘ûÿÿÿÿ8ÑÛÔ½ª.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(úœüıÿÿÿÿ8Âßõ¼ª.
+V
+squid:S106W"9Replace this use of System.out or System.err by a logger.(¯ŞËê8¡Áá¾ª.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(úœüıÿÿÿÿ8‹¤çÕ±.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(È®‰‰úÿÿÿÿ8´ÚÃ¾ª.
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(šê€šıÿÿÿÿ8šœ½½ª.
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(“„€ƒ8µ—¾ª.
+hsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(õ÷]8É„ı¾ª.
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(‰³„¶8êù”½ª.
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(«ü‰œıÿÿÿÿ8‹Œœ¾ª.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(­²ğ†8ˆ©ˆ½ª.
+[
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ÄÜÉÚùÿÿÿÿ8ó¡¿ª.
+[
+squid:S106X"9Replace this use of System.out or System.err by a logger.(šÇ¹Ôúÿÿÿÿ8Ñö¾ª.
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ğ‡Õúÿÿÿÿ8™Ïë½ª.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô½çÇûÿÿÿÿ8éø½ª.
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ÃîÓóûÿÿÿÿ8ğÚĞ¾ª.
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(üœ”ÿ8È¶”½ª.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úäâ¥8™ÿëÕ±.
+Jsquid:S1905K",Remove this unnecessary cast to "LocalDate".(Õ¾õ8ìÏ½¾ª.
+Jsquid:S1905G",Remove this unnecessary cast to "LocalDate".(ê¿Œ€8ìÏ½¾ª.

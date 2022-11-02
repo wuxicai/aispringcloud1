@@ -1,0 +1,22 @@
+
+Isquid:S1611"/Remove the parentheses around the "e" parameter(ÿŸ»ºûÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(Æ–Å…ýÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+Isquid:S1611"/Remove the parentheses around the "e" parameter(”ùÿÅúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+Asquid:S1481"-Remove this unused "integers" local variable.(âŠûW
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+Psquid:S1854"<Remove this useless assignment to local variable "integers".(âŠûW
+Fsquid:S1612",Replace this lambda with a method reference.(´ÿ½ïýÿÿÿÿ
+=squid:S1604"(Make this anonymous inner class a lambda(Û•óù
+Qsquid:S1854"<Remove this useless assignment to local variable "integers".(®÷îÀ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(”ùÿÅúÿÿÿÿ
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º­¸è
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+Bsquid:S1481"-Remove this unused "integers" local variable.(®÷îÀ
+1squid:S1220""Move this file to a named package.

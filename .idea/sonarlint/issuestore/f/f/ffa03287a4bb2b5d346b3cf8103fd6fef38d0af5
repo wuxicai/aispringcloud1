@@ -1,0 +1,42 @@
+
+tsquid:S4276C"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(õöÓ©ùÿÿÿÿ8ˆŸÇ¢©.
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šİ°ë
+Jsquid:S1612'",Replace this lambda with a method reference.(”×´ï8¨£©.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(É©êÆùÿÿÿÿ8ï­¨£©.
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.( ­8¥¤£¢©.
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(„Íáú8½ç³¢©.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(âşŒÔüÿÿÿÿ8Ç­Ä£©.
+Vsquid:S1854("8Remove this useless assignment to local variable "sup1".(Éµœù8á¨‘£©.
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(Ú”ëš8•Ğ¢©.
+1squid:S1220""Move this file to a named package.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÿáÉ 8‹ÿ¿£©.
+Fsquid:S1481'"(Remove this unused "sup" local variable.(”×´ï8¨£©.
+Ksquid:S1481L"(Remove this unused "com" local variable.(´ÿ½ïıÿÿÿÿ8¹–ã¢©.
+[squid:S1854S"8Remove this useless assignment to local variable "bip1".(›•è­ÿÿÿÿÿ8ş™ÿ¢©.
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Ïºûÿÿÿÿ8òïË¢©.
+Gsquid:S1481(")Remove this unused "sup1" local variable.(Éµœù8á¨‘£©.
+Lsquid:S1481M")Remove this unused "com1" local variable.(åîèØûÿÿÿÿ8‰Êã¢©.
+Ksquid:S1481R"(Remove this unused "bip" local variable.(‚»”¾ıÿÿÿÿ8¸©ı¢©.
+Lsquid:S1481S")Remove this unused "bip1" local variable.(›•è­ÿÿÿÿÿ8ş™ÿ¢©.
+Usquid:S1854'"7Remove this useless assignment to local variable "sup".(”×´ï8¨£©.
+Osquid:S1612L",Replace this lambda with a method reference.(´ÿ½ïıÿÿÿÿ8¹–ã¢©.
+Zsquid:S1854L"7Remove this useless assignment to local variable "com".(´ÿ½ïıÿÿÿÿ8¹–ã¢©.
+[squid:S1854M"8Remove this useless assignment to local variable "com1".(åîèØûÿÿÿÿ8‰Êã¢©.
+Osquid:S1612C",Replace this lambda with a method reference.(õöÓ©ùÿÿÿÿ8ˆŸÇ¢©.
+Lsquid:S1611,"/Remove the parentheses around the "x" parameter(‰©§18¼»£©.
+nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ƒ„ú„úÿÿÿÿ8¡é§¢©.
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(ò°—8‡ëŸ£©.
+nsquid:S4276F"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(®¬ò8•Ğ¢©.
+ysquid:S4276"[Refactor this code to use the more specialised Functional Interface 'IntFunction<String[]>'(¼„¶µ8Ÿß¼£©.
+Zsquid:S1854R"7Remove this useless assignment to local variable "bip".(‚»”¾ıÿÿÿÿ8¸©ı¢©.
+U
+squid:S1061"9Replace this use of System.out or System.err by a logger.(­µÿ8¾ô¬£©.
+€squid:S4276!"]Refactor this code to use the more specialised Functional Interface 'IntFunction<Employee[]>'(‹Ä—çøÿÿÿÿ8îãÂ£©.

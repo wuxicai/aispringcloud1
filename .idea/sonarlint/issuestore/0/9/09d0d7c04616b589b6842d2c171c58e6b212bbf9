@@ -1,0 +1,6 @@
+
+esquid:S3973"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8€°ª´­.
+Wsquid:UselessImportCheck".Remove this unused import 'åŠ¨æ€æ•°ç»„.List'.(¿Şıç8€°ª´­.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öˆŸÚ8€°ª´­.
+£squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ÓµÓ¬8€°ª´­.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚¹Ÿªÿÿÿÿÿ8ê‡²´­.

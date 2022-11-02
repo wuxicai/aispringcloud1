@@ -2,16 +2,62 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JVM/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JVM/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringYuanli" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringYuanli/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configclient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/duoxiancheng" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/duoxiancheng/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaclient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jichu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jichu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jpa/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nativeconfigclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nativeconfigclient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nativeconfigserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nativeconfigserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflect" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflect/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/resttemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resttemplate/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shujujiegou" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shujujiegou/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sjms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sjms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/srpingaop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/srpingaop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/src/main/java" charset="UTF-8" />
   </component>
 </project>

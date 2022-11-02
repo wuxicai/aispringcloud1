@@ -1,0 +1,34 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(žÝ‘8“ç‡ºª.
+Zsquid:S1854"9Remove this useless assignment to local variable "empty".(øûø¬úÿÿÿÿ8“ç‡ºª.
+Ssquid:S3655"7Call "Optional#isPresent()" before accessing the value.(Óš…8ò“¹ºª.
+Ssquid:S3655"7Call "Optional#isPresent()" before accessing the value.(»½ùã8³…Àºª.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬óÇÌùÿÿÿÿ8Ë¤šºª.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïõõ	8ëñŽºª.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆþÅß8òª®ºª.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Óš…8šû·ºª.
+1squid:S1220""Move this file to a named package.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(»½ùã8³…Àºª.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿˆèÞýÿÿÿÿ8ÜŠ‰ºª.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(žêÍ¦üÿÿÿÿ8ûõÊ’ª.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿Ï†é8¢¡Ñ’ª.
+Hsquid:S1612",Replace this lambda with a method reference.(Óš…8šû·ºª.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸÀ¦ôýÿÿÿÿ8ôÏ±ºª.
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(Ý¦¶Ý8Ä¾¯ºª.
+Ksquid:S1481"*Remove this unused "empty" local variable.(øûø¬úÿÿÿÿ8“ç‡ºª.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(øÏ˜ˆ8éŸÒ’ª.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÀëÁþÿÿÿÿ8à–©ºª.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(žíö‰8»Ýººª.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×Óá—8Üÿ›ºª.

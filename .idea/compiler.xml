@@ -7,32 +7,69 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="configserver" />
-        <module name="consumer" />
-        <module name="eurekaclient" />
+        <module name="JVM" />
+        <module name="基础" />
+        <module name="swagger" />
         <module name="eurekaserver" />
-        <module name="feign" />
-        <module name="hystrix" />
-        <module name="nativeconfigclient" />
-        <module name="nativeconfigserver" />
+        <module name="reflect" />
+        <module name="springdatajpa" />
+        <module name="java8" />
+        <module name="jichu" />
+        <module name="jpa" />
+        <module name="boot" />
+        <module name="SpringYuanli" />
+        <module name="consumer" />
         <module name="resttemplate" />
+        <module name="nativeconfigserver" />
+        <module name="hystrix" />
+        <module name="zipkin" />
         <module name="ribbon" />
+        <module name="zipclient" />
+        <module name="nativeconfigclient" />
         <module name="zuul" />
+        <module name="collection" />
+        <module name="configserver" />
+        <module name="数据结构" />
+        <module name="configclient" />
+        <module name="shujujiegou" />
+        <module name="srpingaop" />
+        <module name="eurekaclient" />
+        <module name="duoxiancheng" />
+        <module name="feign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="aispringcloud" target="1.8" />
-      <module name="configserver" target="1.8" />
-      <module name="consumer" target="1.8" />
-      <module name="eurekaclient" target="1.8" />
-      <module name="eurekaserver" target="1.8" />
-      <module name="feign" target="1.8" />
-      <module name="hystrix" target="1.8" />
-      <module name="nativeconfigclient" target="1.8" />
-      <module name="nativeconfigserver" target="1.8" />
-      <module name="resttemplate" target="1.8" />
-      <module name="ribbon" target="1.8" />
-      <module name="zuul" target="1.8" />
+      <module name="sjms" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringYuanli" options="" />
+      <module name="boot" options="" />
+      <module name="collection" options="" />
+      <module name="configclient" options="" />
+      <module name="configserver" options="" />
+      <module name="consumer" options="" />
+      <module name="duoxiancheng" options="" />
+      <module name="eurekaclient" options="" />
+      <module name="eurekaserver" options="" />
+      <module name="feign" options="" />
+      <module name="hystrix" options="" />
+      <module name="java8" options="" />
+      <module name="jichu" options="" />
+      <module name="jpa" options="" />
+      <module name="nativeconfigclient" options="" />
+      <module name="nativeconfigserver" options="" />
+      <module name="reflect" options="" />
+      <module name="resttemplate" options="" />
+      <module name="ribbon" options="" />
+      <module name="shujujiegou" options="" />
+      <module name="sjms" options="-parameters" />
+      <module name="srpingaop" options="" />
+      <module name="swagger" options="" />
+      <module name="zipclient" options="" />
+      <module name="zipkin" options="" />
+      <module name="zuul" options="" />
+    </option>
   </component>
 </project>

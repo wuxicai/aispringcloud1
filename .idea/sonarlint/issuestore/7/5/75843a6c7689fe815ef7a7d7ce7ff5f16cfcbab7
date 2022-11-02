@@ -1,0 +1,11 @@
+
+Usquid:S1854"7Remove this useless assignment to local variable "map".(å¥Îî8²’Œá½.
+Fsquid:S1481"(Remove this unused "map" local variable.(å¥Îî8²’Œá½.
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8é¨–á½.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¬ÐË‹ùÿÿÿÿ8‚ÊœÇ½.
+8squid:S1220""Move this file to a named package.8‚ÊœÇ½.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ÐË‹ùÿÿÿÿ8ö•ÝÇ½.
+Usquid:S1854*"7Remove this useless assignment to local variable "set".(ŽŸ¨Ò8ã¬žÇ½.
+Fsquid:S1481*"(Remove this unused "set" local variable.(ŽŸ¨Ò8ã¬žÇ½.

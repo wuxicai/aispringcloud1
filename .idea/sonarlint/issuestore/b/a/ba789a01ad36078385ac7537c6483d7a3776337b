@@ -1,0 +1,41 @@
+
+Hsquid:S1989="%Add a "try/catch" block for "invoke".(°£ıÿÿÿÿ8§ë¡¯.
+Gsquid:S1148È"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8§ë¡¯.
+Fsquid:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ë Ú®.
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ë Ú®.
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ÛñÜ£ùÿÿÿÿ8ÀáêÛ®.
+W
+squid:S106·"9Replace this use of System.out or System.err by a logger.(­‘ŸÓ8Ë Ú®.
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÉÿÇ¬8«×ÀÙ®.
+usquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÕÿóQ8´ÓâÛ®.
+Ssquid:S1989k"0Add a "try/catch" block for "getDeclaredFields".(¢ºä£ùÿÿÿÿ8Ë Ú®.
+Fsquid:S1989*"(Add a "try/catch" block for "getWriter".(˜¦ø™8§ë¡¯.
+W
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(Œëİ´8Ë Ú®.
+Gsquid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ë Ú®.
+:squid:S3626š"Remove this redundant jump.(İí¦8Ë Ú®.
+Hsquid:S1989="%Add a "try/catch" block for "invoke".(°£ıÿÿÿÿ8§ë¡¯.
+Hsquid:S1989"%Add a "try/catch" block for "doPost".(éöõ¦ùÿÿÿÿ8«×ÀÙ®.
+fsquid:S00112–"FDefine and throw a dedicated exception instead of using a generic one.(…«Ÿô8Ë Ú®.
+Fsquid:S19895"(Add a "try/catch" block for "getWriter".(˜ŸÃè8§ë¡¯.
+Esquid:S1989v""Add a "try/catch" block for "set".(ŠŠËşÿÿÿÿ8Ë Ú®.
+Hsquid:S1989"%Add a "try/catch" block for "doPost".(éöõ¦ùÿÿÿÿ8«×ÀÙ®.
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(œ£Æ­8§ë¡¯.
+[squid:S3878="8Remove this array creation and simply pass the elements.(°£ıÿÿÿÿ8§ë¡¯.
+Hsquid:S1989="%Add a "try/catch" block for "invoke".(°£ıÿÿÿÿ8§ë¡¯.
+jsquid:S00112."FDefine and throw a dedicated exception instead of using a generic one.(Âõ“‰ùÿÿÿÿ8§ë¡¯.
+[squid:S1854‡"<Remove this useless assignment to local variable "beanName".(õ½È§8Ë Ú®.
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ç‹â¨8«×ÀÙ®.
+Gsquid:S1989]")Add a "try/catch" block for "getMethods".(³‘õ8ïıŸÚ®.
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¯Ë’Äøÿÿÿÿ8§ë¡¯.
+Lsquid:S1481‡"-Remove this unused "beanName" local variable.(õ½È§8Ë Ú®.
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ë Ú®.
+\
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(Õ§îşÿÿÿÿ8Ë Ú®.
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ï«‹©8«×ÀÙ®.
+Jsquid:S1989t",Add a "try/catch" block for "setAccessible".(˜ÂÓ˜8Ë Ú®.
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(™à»É8«×ÀÙ®.

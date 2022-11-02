@@ -1,0 +1,21 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õúÜÐùÿÿÿÿ8Êçý¦².
+isquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(“Ìƒ8«éÙÏ±.
+[
+squid:S106e"9Replace this use of System.out or System.err by a logger.(°¶á‘üÿÿÿÿ8ØÝ¿ªº.
+lsquid:S1192#"IDefine a constant instead of duplicating this literal "20200612" 3 times.(®ðŠøÿÿÿÿ8«éÙÏ±.
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ëÏáÆ8«éÙÏ±.
+[squid:S1854b"8Remove this useless assignment to local variable "now2".(Ú”Ïôüÿÿÿÿ8±Ãªº.
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ëÏáÆ8«éÙÏ±.
+Lsquid:S1481b")Remove this unused "now2" local variable.(Ú”Ïôüÿÿÿÿ8±Ãªº.
+gsquid:S1192"IDefine a constant instead of duplicating this literal "yyyyMMdd" 3 times.(ÓÏ›ì8«éÙÏ±.
+jsquid:S00112N"FDefine and throw a dedicated exception instead of using a generic one.( ê¾ºÿÿÿÿÿ8«éÙÏ±.
+isquid:S40651"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(ü½íåøÿÿÿÿ8«éÙÏ±.
+V
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ëÏáÆ8«éÙÏ±.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Àôü8öËû¦².
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ©Â›8‹ùü¦².

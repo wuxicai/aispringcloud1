@@ -1,0 +1,7 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÝÁƒ‡8Ì²ÄÆ´.
+jsquid:S00112
+"FDefine and throw a dedicated exception instead of using a generic one.(Š—¸–ýÿÿÿÿ8Ì²ÄÆ´.
+Usquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ì²ÄÆ´.
+dsquid:S1192"FDefine a constant instead of duplicating this literal "EMAIL" 3 times.(œÏãž8Ì²ÄÆ´.

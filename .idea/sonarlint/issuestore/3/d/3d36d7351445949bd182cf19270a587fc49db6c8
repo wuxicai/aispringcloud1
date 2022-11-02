@@ -1,0 +1,57 @@
+
+Fsquid:S1481*")Remove this unused "bst3" local variable.(‹íô8ËÀçÒ·.
+Usquid:S1854*"8Remove this useless assignment to local variable "bst3".(‹íô8ËÀçÒ·.
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ËÀçÒ·.
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ©×ßıÿÿÿÿ8ËÀçÒ·.
+W
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ï¾8îµ¦».
+Lsquid:S1481"")Remove this unused "data" local variable.(ƒı¯Üÿÿÿÿÿ8ËÀçÒ·.
+[squid:S1854""8Remove this useless assignment to local variable "data".(ƒı¯Üÿÿÿÿÿ8ËÀçÒ·.
+V
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ŠÆšÚ8ËÀçÒ·.
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(Şô÷øÿÿÿÿ8ËÀçÒ·.
+V
+squid:S106["9Replace this use of System.out or System.err by a logger.(ÊØ£Ğ8ËÀçÒ·.
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(‰âíİ8›ÿ³¦».
+Vsquid:S1854-"8Remove this useless assignment to local variable "bst4".(È‚³—8ËÀçÒ·.
+U
+squid:S106h"9Replace this use of System.out or System.err by a logger.(é³š	8ò£Ÿ».
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(±î™Š8ËÀçÒ·.
+W
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ï¾8ÎÓÙÇ½.
+Vsquid:S1854|"8Remove this useless assignment to local variable "data".(ÈóçÁ8ÛòÄ¾¼.
+Gsquid:S1481n")Remove this unused "data" local variable.(ÈóçÁ8»®Œ¿¼.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(·Á§8ËÀçÒ·.
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8…ãìÒ·.
+V
+squid:S106u"9Replace this use of System.out or System.err by a logger.(ï¾8¾ÂÔ·½.
+Zsquid:S1854!"7Remove this useless assignment to local variable "set".(¼‹èŠøÿÿÿÿ8ÀÃ¤Å½.
+U
+squid:S106H"9Replace this use of System.out or System.err by a logger.(é³š	8ÇµÄ«¸.
+œsquid:S1192u"~Define a constant instead of duplicating this literal "-------------------------------------------------------------" 4 times.(ï¾8€ª÷Â¼.
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¬ĞË‹ùÿÿÿÿ8¸şã½.
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ŸàÀ•ÿÿÿÿÿ8˜˜¥¬¸.
+[
+squid:S106j"9Replace this use of System.out or System.err by a logger.(á³³ïúÿÿÿÿ8å¾¦ôº.
+jsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(ô•ñŸ8úŞÃ½.
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(á³³ïúÿÿÿÿ8ıÉˆŸ».
+W
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ï¾8åºÆ»¼.
+Gsquid:S14811")Remove this unused "bst5" local variable.(¬ó×˜8ËÀçÒ·.
+Gsquid:S1481-")Remove this unused "bst4" local variable.(È‚³—8ËÀçÒ·.
+Vsquid:S18541"8Remove this useless assignment to local variable "bst5".(¬ó×˜8ËÀçÒ·.
+Gsquid:S1481|")Remove this unused "data" local variable.(ÈóçÁ8ÛòÄ¾¼.
+\
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(–¦ûµùÿÿÿÿ8í‰Â¼.
+Ksquid:S1481!"(Remove this unused "set" local variable.(¼‹èŠøÿÿÿÿ8ÀÃ¤Å½.
+Vsquid:S1854n"8Remove this useless assignment to local variable "data".(ÈóçÁ8»®Œ¿¼.
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(‘¡§ üÿÿÿÿ8İ«æ¢¹.

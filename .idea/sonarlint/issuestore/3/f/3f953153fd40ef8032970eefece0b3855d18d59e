@@ -1,0 +1,167 @@
+
+\squid:S1854";Remove this useless assignment to local variable "stream1".(¬¸úøÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅŞûïÿÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îï—âşÿÿÿÿ8üö˜«.
+Usquid:S3655"4Call "first.isPresent()" before accessing the value.(ìÚ¢¤üÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï¢—½øÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù¾º×üÿÿÿÿ8üö˜«.
+Usquid:S4973"9Use the "equals" method if value comparison was intended.(Îÿó8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ±ÖÆùÿÿÿÿ8üö˜«.
+Msquid:S1612",Replace this lambda with a method reference.(ã¹ù‘øÿÿÿÿ8üö˜«.
+Ksquid:S5411"*Use the primitive boolean expression here.(†Šğ‡ùÿÿÿÿ8üö˜«.
+Ssquid:S3655"2Call "min.isPresent()" before accessing the value.(ê­ÙŸùÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç»ñ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(•¬Å»8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Éµ¯8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª‹ûõøÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶¦Øáÿÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷ÏÀ‚şÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿¯›‘8üö˜«.
+`squid:HiddenFieldCheck"9Rename "list" which hides the field declared at line 105.(ÿ«ÈÜ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷¢ù ûÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª‹ûõøÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷å«Õÿÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8üö˜«.
+Ssquid:S3655"2Call "max.isPresent()" before accessing the value.(÷å«Õÿÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì™Õ•üÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ÷ŠÍşÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚâŠË8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ıâÙ8üö˜«.
+[squid:S1854":Remove this useless assignment to local variable "stream".(ÍÆ¬üÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(àæÁøÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ”‰æıÿÿÿÿ8üö˜«.
+_squid:HiddenFieldCheck"9Rename "list" which hides the field declared at line 105.(Ìö¼8üö˜«.
+Nsquid:S3655"2Call "any.isPresent()" before accessing the value.(Á ÌË8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÉ¥8üö˜«.
+usquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(íôÒĞ8üö˜«.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(†½ù18üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø‚¥ä8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï­×¸8üö˜«.
+Msquid:S1481",Remove this unused "stream1" local variable.(¬¸úøÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Éµ¯8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(©± Òüÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(šŞ¾º8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(İÂúğ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹¥ãĞ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†„Ï–ÿÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÚ¢¤üÿÿÿÿ8üö˜«.
+squid:S1192"rDefine a constant instead of duplicating this literal "-----------------------æ‹¼æ¥--------------------" 3 times.(†Éµ¯8üö˜«.
+Hsquid:S1612",Replace this lambda with a method reference.(½Ñ×‚8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(½Ñ×‚8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆç•´ùÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ËÑ•üÿÿÿÿ8üö˜«.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(–òš8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(…°ë8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁÙ²¯8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿èğşÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëµÇ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëâÖã8üö˜«.
+asquid:S1854"@Remove this useless assignment to local variable "stringStream".(ùµ¬’úÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(éñØ•ûÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñ…•øÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğº§µ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(şŸÖš8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(È©ƒ«8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í–êåøÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(èıú8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùúŒÛÿÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ±ÖÆùÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê­ÙŸùÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ášìàüÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Éµ¯8üö˜«.
+`squid:HiddenFieldCheck"9Rename "list" which hides the field declared at line 105.(ÿ«ÈÜ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙËéîşÿÿÿÿ8üö˜«.
+Lsquid:S1481"+Remove this unused "stream" local variable.(ÍÆ¬üÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ±ÖÆùÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¹ù‘øÿÿÿÿ8üö˜«.
+Vsquid:S3655"5Call "reduce.isPresent()" before accessing the value.(ª‹ûõøÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á ÌË8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(—Ş“8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ²ö‹øÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÁÎ¼8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ûµı8üö˜«.
+Ksquid:S5411"*Use the primitive boolean expression here.(ì™Õ•üÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡Á´á8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“í¯¾8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æã•ûÿÿÿÿ8üö˜«.
+Vsquid:S3655"5Call "reduce.isPresent()" before accessing the value.(ª‹ûõøÿÿÿÿ8üö˜«.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª½È†8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦‰‚Ùúÿÿÿÿ8üö˜«.
+vsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ü­48üö˜«.
+Rsquid:S1481"1Remove this unused "stringStream" local variable.(ùµ¬’úÿÿÿÿ8üö˜«.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûîÕ™úÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Êïşèÿÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ²ÈÎÿÿÿÿÿ8üö˜«.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Šğ‡ùÿÿÿÿ8üö˜«.

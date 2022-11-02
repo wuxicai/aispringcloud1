@@ -1,0 +1,125 @@
+
+isquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(ÃÔ¼Œ8êÂå‘«.
+Jsquid:S1172¸"&Remove these unused method parameters.(¦³ßâøÿÿÿÿ8êÂå‘«.
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(„•˜ûÿÿÿÿ8êÂå‘«.
+[
+squid:S106W"9Replace this use of System.out or System.err by a logger.(…”Äüÿÿÿÿ8êÂå‘«.
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¦¾ÑÕ8êÂå‘«.
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(£·®8êÂå‘«.
+‚squid:S11493"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8êÂå‘«.
+8squid:S1220""Move this file to a named package.8÷Å‘«.
+\
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(Å©ƒÌûÿÿÿÿ8êÂå‘«.
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ðÑÝæ8êÂå‘«.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÅ‘™8êÂå‘«.
+\
+squid:S106²"9Replace this use of System.out or System.err by a logger.(¿Î•µúÿÿÿÿ8êÂå‘«.
+V
+squid:S106^"9Replace this use of System.out or System.err by a logger.(î¡‚Ã8êÂå‘«.
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÄÅøÉ8êÂå‘«.
+V
+squid:S106e"9Replace this use of System.out or System.err by a logger.(€ì‡Ô8êÂå‘«.
+[
+squid:S106~"9Replace this use of System.out or System.err by a logger.(è—Ôùùÿÿÿÿ8êÂå‘«.
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(‡»åâüÿÿÿÿ8êÂå‘«.
+\
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ÁÀøýÿÿÿÿ8êÂå‘«.
+V
+squid:S106x"9Replace this use of System.out or System.err by a logger.(Ú“ÜÝ8êÂå‘«.
+csquid:S1854`"@Remove this useless assignment to local variable "constructor1".(ÝŸôãÿÿÿÿÿ8êÂå‘«.
+Tsquid:S1481`"1Remove this unused "constructor1" local variable.(ÝŸôãÿÿÿÿÿ8êÂå‘«.
+V
+squid:S106£"9Replace this use of System.out or System.err by a logger.(ì­ÒR8êÂå‘«.
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(®ª¤Úúÿÿÿÿ8÷Å‘«.
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ðÑÝæ8êÂå‘«.
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(ëŸû8êÂå‘«.
+ksquid:S1223Ë"LRename this method to prevent any misunderstanding or make it a constructor.(óí8êÂå‘«.
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(º“®ß8êÂå‘«.
+lsquid:UselessImportCheck"ARemove this unused import 'org.aspectj.lang.annotation.Pointcut'.(ˆ“¡¿8¸¡ï‘«.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê¬êìùÿÿÿÿ8êÂå‘«.
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(õš‡àúÿÿÿÿ8êÂå‘«.
+dsquid:S1192-"FDefine a constant instead of duplicating this literal "name1" 3 times.(È¡¸ü8êÂå‘«.
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÉÂ²à8êÂå‘«.
+[
+squid:S106z"9Replace this use of System.out or System.err by a logger.(­ÿ²îûÿÿÿÿ8êÂå‘«.
+\
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(½«ýŸúÿÿÿÿ8êÂå‘«.
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(¦Ã•8÷Å‘«.
+W
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(¿¸Ö8êÂå‘«.
+W
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(Î¹öú8êÂå‘«.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(õŽ‹©8êÂå‘«.
+±%squid:RedundantThrowsDeclarationCheck×"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(¯êò48êÂå‘«.
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°ðÀ×øÿÿÿÿ8êÂå‘«.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(©Û£ïøÿÿÿÿ8êÂå‘«.
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ÿ‡íûÿÿÿÿ8êÂå‘«.
+Osquid:S1172»"+Remove this unused method parameter "list".(ù€Žˆüÿÿÿÿ8êÂå‘«.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(îöû™8êÂå‘«.
+\
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ò³ã“ÿÿÿÿÿ8êÂå‘«.
+osquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ºÝÈÏüÿÿÿÿ8êÂå‘«.
+V
+squid:S106s"9Replace this use of System.out or System.err by a logger.(Ú“ÜÝ8÷Å‘«.
+Gsquid:S1905­"(Remove this unnecessary cast to "table".(‰ŸÞÝ8êÂå‘«.
+\
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(‚é€Þûÿÿÿÿ8êÂå‘«.
+ksquid:S1192F"HDefine a constant instead of duplicating this literal "getName" 3 times.(„Âßðÿÿÿÿÿ8êÂå‘«.
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(íÙÙ³ùÿÿÿÿ8÷Å‘«.
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(Ú“ÜÝ8êÂå‘«.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8÷Å‘«.
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(„ùÁ³øÿÿÿÿ8êÂå‘«.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô×{8êÂå‘«.
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(¸Ÿ™ýþÿÿÿÿ8êÂå‘«.
+V
+squid:S106l"9Replace this use of System.out or System.err by a logger.(Ú“ÜÝ8êÂå‘«.
+W
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(ñ¦çÑ8êÂå‘«.
+V
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Óä¶8êÂå‘«.
+¥squid:S1186·"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍÏÑÌúÿÿÿÿ8êÂå‘«.
+V
+squid:S106n"9Replace this use of System.out or System.err by a logger.(îõÈÊ8êÂå‘«.
+\
+squid:S106á"9Replace this use of System.out or System.err by a logger.(ë°˜Ãÿÿÿÿÿ8êÂå‘«.
+qsquid:UselessImportCheck"GRemove this unused import 'org.aspectj.lang.annotation.AfterReturning'.(Ún8¸¡ï‘«.
+\
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(š•ªýþÿÿÿÿ8êÂå‘«.
+V
+squid:S106™"9Replace this use of System.out or System.err by a logger.(½ëg8êÂå‘«.
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¹‘ÄÇùÿÿÿÿ8êÂå‘«.
+\
+squid:S106†"9Replace this use of System.out or System.err by a logger.(ò³ã“ÿÿÿÿÿ8êÂå‘«.
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(€ó£ç8êÂå‘«.
+[
+squid:S106S"9Replace this use of System.out or System.err by a logger.(õº©Äÿÿÿÿÿ8êÂå‘«.
+²%squid:RedundantThrowsDeclarationCheckË"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(óí8êÂå‘«.
+\
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(µÜæòüÿÿÿÿ8êÂå‘«.

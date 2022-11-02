@@ -1,0 +1,6 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(À«ó‹ûÿÿÿÿ8¶ÿÆÆ´.
+Usquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8¶ÿÆÆ´.
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‰µ¯€ÿÿÿÿÿ8¶ÿÆÆ´.
+lsquid:S1192	"IDefine a constant instead of duplicating this literal "PHONENUM" 3 times.(…ªˆÖþÿÿÿÿ8¶ÿÆÆ´.
