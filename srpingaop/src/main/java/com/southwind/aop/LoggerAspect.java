@@ -15,7 +15,7 @@ public class LoggerAspect {
         String name = joinPoint.getSignature().getName();
 
         String s = Arrays.toString(joinPoint.getArgs());
-        log.info(name+s);
+        System.out.println(name+s);
 /** System.out.println(name+"方法的参数是："+s);*/
     }
     @After(value = "execution(public int com.southwind.utils.impl.CalImpl.*(..))")
