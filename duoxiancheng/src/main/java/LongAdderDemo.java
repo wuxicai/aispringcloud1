@@ -16,7 +16,7 @@ import java.util.concurrent.atomic.LongAdder;
  */
 public class LongAdderDemo {
     /**
-     * 线程池内线程数
+     * 线程池内线程数1
      */
     final static int POOL_SIZE = 1000;
 
